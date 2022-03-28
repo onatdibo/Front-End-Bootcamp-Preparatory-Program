@@ -1,0 +1,61 @@
+.text-center {
+    text-align: center;
+}
+
+.color-red {
+    color: red;
+}
+
+.color-purple {
+    color: purple;
+}
+
+.color-peru {
+    color: peru;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+
+/* nav Start */
+.nav li {
+    padding: 0rem 0.5rem;
+}
+
+.musical-instrument { /* nokta kısımları da gelicek */
+    list-style-type: none;
+    text-align: center;
+}
+/* nav End */
+
+
+
+/* Products Start */
+.product-1 {
+    margin-bottom: 75px;
+}
+
+.product-2 {
+    margin-bottom: 75px;
+}
+
+.product-3 {
+    margin-bottom: 75px;
+}
+
+.product-4 {
+    margin-bottom: 75px;
+}
+
+.products-page {
+    text-align: center;
+}
+
+.products-page img {
+    margin-bottom: 25px;
+}
+/* Products End */
