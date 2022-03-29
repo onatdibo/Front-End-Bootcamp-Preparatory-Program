@@ -1,0 +1,45 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;1,200&display=swap');
+
+/* Background Color */
+body {
+    background: #E0C9A9;
+}
+
+/* Header color and Font Style */
+h1 {
+    color: #654339;
+    font-style: italic;
+}
+
+
+h4 {
+    font-style: italic;
+}
+
+h3 {
+    margin-left: 70rem;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+
+mark {
+    background: #9A3802;
+    border-radius: 10px;
+}
+
+.tarif {
+    margin: 0 33rem;
+}
+
+.sürec {
+    margin-left: 35rem;
+}
+
+.space {
+    margin-left: 10px;
+}
+
+b {
+    color: #974830;
+}
