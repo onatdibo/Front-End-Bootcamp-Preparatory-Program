@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #222;
+}
+
+a {
+    text-decoration: none;
+    color: #222;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header */
+.nav-bar {
+    position: relative;
+    top: 16px;
+}
+
+.navbar-left {
+    display: flex;
+    justify-content: flex-start;
+    margin: -9px 0 15px;
+    font-size: 13px;
+}
+
+.navbar-right {
+    font-size: 13px;
+    color: #000;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+    margin-top: -30px;
+}
+
+.navbar-right button {
+    background-color: #4587f4;
+    border: none;
+    width: 63px;
+    height: 30px;
+    margin-left: 10px;
+    margin-top: -10px;
+    border-radius: 2px;
+    color: white;
+}
+
+.navbar-right button:hover {
+    background-color: #5f96ee;
+}
+
+.app-icon {
+    margin-left: 10px;
+}
+
+/* Other */
+.test {
+    margin-right: 10px;
+}
+
+.google {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 150px;
+}
+
+
+/* Search */
+.main input {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 500px;
+    height: 35px;
+    border-radius: 20px;
+    border-color: rgb(194, 191, 191);
+    border: none;
+    border: 1px solid rgb(197, 189, 189);
+}
+
+/* Footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    height: 45px;
+    width: 100%;
+    background-color: #0000000c;
+    font-size: 14px;
+    border: 1px solid rgb(194, 191, 191);
+}
+
+.footer .footer-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer .footer-left {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer .footer-right a {
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-top: -15px;
+}
+
+.footer .footer-left a {
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+
+
+/* Search Buttons */
+.search-buttons button {
+    height: 36px;
+    width: 128px;
+    border: none;
+    border-radius: 5px;
+    color: #5f6368;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+
+.search-buttons button:hover {
+    border: 1px solid gray;
+}
+
+.search-buttons {
+    margin-left: 930px;
+    margin-top: 5px;
+    border: 0 0 1px 1px;
+}
+
