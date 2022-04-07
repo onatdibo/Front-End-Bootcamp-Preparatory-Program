@@ -49,4 +49,4 @@ function checktime(i) {
 
 }
 
-// Input kısmında boşluk atınca kabul ediyor fakat onu halletmeye çalışıcam
+// Input kısmında boşluk atınca kabul ediyor.
