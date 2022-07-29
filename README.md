@@ -1,1 +1,1 @@
-# 2022 Front-End Bootcamp Hazırlık Programı
+# 2022 Kodluyoruz Front-End Bootcamp Hazırlık Programı
